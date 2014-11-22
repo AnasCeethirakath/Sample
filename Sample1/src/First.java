@@ -6,6 +6,8 @@ public class First {
 		System.out.println("Hello");
 		System.out.println("some changes");
 		System.out.println("Hoi");
+		System.out.println("abcd");
+		System.out.println("xyz");
 		
 		
 	}
